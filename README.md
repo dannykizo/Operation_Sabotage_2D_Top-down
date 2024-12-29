@@ -1,6 +1,5 @@
-==================================================================
-Đồ án Tốt nghiệp - Xây dựng trò chơi 2D Top-down bằng Unity Engine
-==================================================================
+= Đồ án Tốt nghiệp - Xây dựng trò chơi 2D Top-down bằng Unity Engine
+
 
 Thông tin cá nhân
 -Họ và tên: Nguyễn Thành Nam
