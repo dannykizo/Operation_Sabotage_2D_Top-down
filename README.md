@@ -9,11 +9,8 @@ Thông tin cá nhân
 
 Giới thiệu đề tài
 --
-Operation Sabotage là một trò chơi 2D thể loại Top-down, nơi người chơi sẽ nhập vai một lính đặc nhiệm xâm nhập vào hang ổ kẻ thù để hoàn thành nhiệm vụ tiêu diệt chúng. Trò chơi mang đến sự kết hợp giữa lối chơi chiến thuật, hành động nhanh nhạy và bối cảnh kịch tính.
-
-Đề tài tập trung vào việc áp dụng các công nghệ và kỹ thuật phát triển trò chơi hiện đại như Unity Engine, đồng thời giải quyết các vấn đề trong thiết kế hệ thống, lập trình AI và quản lý giao diện người dùng (UI).
-
-Mục tiêu của dự án
+* Operation Sabotage là một trò chơi 2D thể loại Top-down, nơi người chơi sẽ nhập vai một lính đặc nhiệm xâm nhập vào hang ổ kẻ thù để hoàn thành nhiệm vụ tiêu diệt chúng. Trò chơi mang đến sự kết hợp giữa lối chơi chiến thuật, hành động nhanh nhạy và bối cảnh kịch tính.
+* Mục tiêu của dự án
 Xây dựng một trò chơi có tính tương tác cao với ba cấp độ từ dễ đến khó.
 Triển khai các chức năng chính như điều khiển nhân vật, hành vi AI của kẻ thù, và quản lý các màn chơi.
 Cung cấp trải nghiệm mượt mà và hấp dẫn thông qua việc tối ưu hóa giao diện và hiệu năng.
