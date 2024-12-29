@@ -1,9 +1,12 @@
-*Đồ án Tốt nghiệp - Xây dựng trò chơi 2D Top-down bằng Unity Engine*
+==================================================================
+Đồ án Tốt nghiệp - Xây dựng trò chơi 2D Top-down bằng Unity Engine
+==================================================================
+
 Thông tin cá nhân
-Họ và tên: Nguyễn Thành Nam
-Mã số sinh viên: 47.01.104.137
-Đề tài: Xây dựng trò chơi 2D Top-down bằng Unity Engine
-Tên trò chơi: Operation Sabotage
+-Họ và tên: Nguyễn Thành Nam
+-Mã số sinh viên: 47.01.104.137
+-Đề tài: Xây dựng trò chơi 2D Top-down bằng Unity Engine
+-Tên trò chơi: Operation Sabotage
 Giới thiệu đề tài
 Operation Sabotage là một trò chơi 2D thể loại Top-down, nơi người chơi sẽ nhập vai một lính đặc nhiệm xâm nhập vào hang ổ kẻ thù để hoàn thành nhiệm vụ tiêu diệt chúng. Trò chơi mang đến sự kết hợp giữa lối chơi chiến thuật, hành động nhanh nhạy và bối cảnh kịch tính.
 
