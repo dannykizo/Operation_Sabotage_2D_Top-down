@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - PlayerProjectile
+  - Enemy
+  - EnemyProjectile
+  - Collectible
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 4223123045
+    locked: 0
+  - name: Ground
+    uniqueID: 3975819993
+    locked: 0
+  - name: Ground2
+    uniqueID: 725281471
+    locked: 0
+  - name: Props
+    uniqueID: 1455064231
+    locked: 0
+  - name: Legs
+    uniqueID: 2892001051
+    locked: 0
+  - name: Buildings
+    uniqueID: 3120118825
+    locked: 0
+  - name: Player
+    uniqueID: 1768226873
+    locked: 0
