@@ -1,26 +1,5 @@
-Personal Use License
+Nam's Project
 
 Project Title: Operation Sabotage
 
-Version: 1.0
-
-Date: 23 September 2024
-
-By downloading, using, or accessing this Unity project (including its source code and assets), you agree to the following:
-
-Personal Use Only
-You may use this project, including all source code and assets, for personal, non-commercial purposes only. Selling or distributing it for profit is not allowed.
-
-No Commercial Distribution
-You are not allowed to redistribute or share the source code or assets commercially.
-
-No Modifications for Distribution
-You may modify the project for your own personal use, but you may not distribute modified versions or derivatives.
-
-Ownership
-The developer retains all rights to the source code, assets, and any other materials provided with this project. You are granted a limited license to use them under these terms.
-
-Liability
-The developer is not responsible for any issues or damages that arise from using this project.
-
-By downloading or using this project, you agree to these terms.
+Date: 29/12/2024
